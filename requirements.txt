@@ -1,0 +1,9 @@
+skyfield==1.45
+geopy==2.3.0
+timezonefinder==6.2.0
+pytz==2024.1
+gradio==4.14.0
+matplotlib==3.8.2
+numpy==1.26.3
+pillow==10.2.0
+h3==3.7.6
