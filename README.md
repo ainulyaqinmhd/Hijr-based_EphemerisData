@@ -65,7 +65,7 @@ This project presents a web-based application that visualizes astronomical ephem
 
 - **`app.py`**: Main script that initializes and runs the Gradio application.
 - **`requirements.txt`**: Specifies the Python dependencies required to run the application.
-- **`README.md`**: Provides an overview and instructions for the project. ([Modeling Satellite Constellations Using Ephemeris Data - MATLAB ...](https://la.mathworks.com/help/satcom/ug/modeling-constellation-using-ephemeris-data.html?utm_source=chatgpt.com), [Definitions of ephemeris data. | Download Scientific Diagram](https://www.researchgate.net/figure/Definitions-of-ephemeris-data_tbl1_346554844?utm_source=chatgpt.com))
+- **`README.md`**: Provides an overview and instructions for the project.
 
 ---
 
